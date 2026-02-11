@@ -1,0 +1,13 @@
+{
+    "name": "b1-mtp-express",
+    "version": "1.0.0",
+    "type": "module",
+    "main": "serveur.ts",
+    "scripts": {
+        "dev": "node serveur.js"
+    },
+    "dependencies": {
+        "express": "^5.2.1",
+        "pg": "^8.18.0"
+    }
+}
