@@ -2,9 +2,9 @@
     "name": "b1-mtp-express",
     "version": "1.0.0",
     "type": "module",
-    "main": "serveur.ts",
+    "main": "new_serveur.ts",
     "scripts": {
-        "dev": "node serveur.js"
+        "dev": "new_serveur.ts"
     },
     "dependencies": {
         "express": "^5.2.1",
